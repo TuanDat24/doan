@@ -1,0 +1,31 @@
+section,section[0],section[1],section[2]
+name,.text,.rsrc,.reloc
+footprint > sha256,5DC2642B13677A49BE5F05E55B2E2589A23E20C80DBE421E302B76CB422C64E5,FA0B1C45AF5490F45DF6689FBF7C79F33EE3FEE003B9204EC826887155AB352E,E79E89DB6CC80CDD92F73A0E9CE26D10CD41940483D057D242F1B0CA61C22431
+entropy,5.438,4.033,0.082
+file-ratio (95.65%),78.26 %,13.04 %,4.35 %
+raw-address (begin),0x00000200,0x00002600,0x00002C00
+raw-address (end),0x00002600,0x00002C00,0x00002E00
+raw-size (11264 bytes),0x00002400 (9216 bytes),0x00000600 (1536 bytes),0x00000200 (512 bytes)
+virtual-address,0x00002000,0x00006000,0x00008000
+virtual-size (10428 bytes),0x0000230C (8972 bytes),0x000005A4 (1444 bytes),0x0000000C (12 bytes)
+,,,
+characteristics,0x60000020,0x40000040,0x42000040
+write,-,-,-
+execute,x,-,-
+share,-,-,-
+self-modifying,-,-,-
+virtual,-,-,-
+,,,
+items,,,
+directory > import,0x000040B4,-,-
+directory > resource,-,0x00006000,-
+directory > relocation,-,-,0x00008000
+directory > debug,0x00003F7C,-,-
+directory > import-address,0x00002000,-,-
+directory > .NET,0x00002008,-,-
+manifest,-,0x000029B4,-
+version,-,0x00002690,-
+base-of-code,0x00002000,-,-
+base-of-data,-,0x00006000,-
+entry-point,0x00004106,-,-
+debug > RSDS,0x00002198,-,-

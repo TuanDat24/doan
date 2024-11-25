@@ -1,0 +1,8 @@
+file,
+file > sha256,E74567B575FF61B948CA3E4D41C2A488C67F09BCC29DE5E35302716D63796C54
+file > type,executable
+cpu,32-bit
+subsystem,GUI
+version,4.0.0.0
+description,Shamoon
+entry-point > location,0x00004106 (section[.text])
